@@ -1,4 +1,4 @@
-# python-programming-module
+# Python Programming Module
 Python Programming Tutorial for DevOps bootcamp
 
 This project includes example demos for learning basic concepts of Python and programming in general, such as:
